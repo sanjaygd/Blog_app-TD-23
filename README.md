@@ -1,1 +1,1 @@
-# Blog_app-TD-23
+1.post_delete function is added to view.
